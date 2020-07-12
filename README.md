@@ -6,5 +6,5 @@
 | 2 | Product Detection          | 0.80654            | 0.81421             |
 | 3 | Short Algorithm Contest #1 | 0                  | 0                   |
 | 4 | Product Translation        |                    |                     |
-| 5 | Logistics                  | 1.0000             | 1.0000s              |
+| 5 | Logistics                  | 1.0000             | 1.0000              |
 | 6 |                            |                    |                     |
