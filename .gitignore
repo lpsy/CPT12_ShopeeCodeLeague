@@ -130,3 +130,5 @@ dmypy.json
 
 # data
 *.zip
+
+comp_8_hidden/
